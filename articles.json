@@ -1,0 +1,106 @@
+[
+    {
+      "publication": "The Washington Post",
+      "title": "The invisible force making food less nutritious",
+      "date": "April 2026",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2026/carbon-pollution-diluting-key-nutrients-food/",
+      "mediaType": "image",
+      "media": "assets/images/co2-food.png"
+    },
+    {
+      "publication": "The Washington Post",
+      "title": "These kitchen items may be contaminating your food with chemicals",
+      "date": "December 2025",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/food-plastic-chemicals-pfas-bpa/",
+      "mediaType": "video",
+      "media": "assets/videos/plastic-exposure-promo.mp4"
+    },
+    {
+      "publication": "The Washington Post",
+      "title": "Camp Mystic’s leader got a ‘life-threatening’ flood alert. They evacuated an hour later.",
+      "date": "July 2025",
+      "url": "https://www.washingtonpost.com/nation/interactive/2025/camp-mystic-alerts-texas-floods/",
+      "mediaType": "video",
+      "media": "assets/videos/camp-mystic.mp4"
+    },
+    {
+      "publication": "The Washington Post",
+      "title": "What the homes that survived the L.A. fires reveal",
+      "date": "February 2025",
+      "url": "https://www.washingtonpost.com/weather/interactive/2025/la-fires-homes-survive-building-materials/",
+      "mediaType": "image",
+      "media": "assets/images/promo-firehome.jpg"
+    },
+    {
+      "publication": "The Washington Post",
+      "title": "What you can learn about salmon from its packaging",
+      "date": "July 2024",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/salmon-labeling-wild-farm-species-explained/",
+      "mediaType": "image",
+      "media": "assets/images/salmon-labeling-promo.jpg"
+    },
+    {
+      "publication": "The Washington Post",
+      "title": "The remaking of the American jean",
+      "date": "March 2024",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/most-sustainable-jeans/",
+      "mediaType": "image",
+      "media": "assets/images/jeans.gif"
+    },
+    {
+      "publication": "The Washington Post",
+      "title": "London hit 104 degrees. That’s like 129 degrees in Phoenix.",
+      "date": "July 2022",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2022/london-104-degrees-your-city/",
+      "mediaType": "image",
+      "media": "assets/images/high-temps-compare.gif"
+    },
+    {
+      "publication": "The Washington Post",
+      "title": "Europe wants to cut Russian energy. Climate policies can help.",
+      "date": "March 2022",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2022/europe-ban-russian-oil-gas-climate/",
+      "mediaType": "image",
+      "media": "assets/images/eu_energy_slider.gif"
+    },
+    {
+      "publication": "The Washington Post",
+      "title": "The life cycle of a Brood X cicada",
+      "date": "May 2021",
+      "url": "https://www.washingtonpost.com/science/interactive/2021/cicadas-lifecycle-brood-x/?utm_medium=social&utm_source=twitter&utm_campaign=wp_graphics",
+      "mediaType": "image",
+      "media": "assets/images/promo-science-cicadas-are-back.jpg"
+    },
+    {
+      "publication": "Axios",
+      "title": "There aren't enough jobs for America's unemployed",
+      "date": "September 2020",
+      "url": "https://www.axios.com/unemployment-open-jobs-every-state-48fd702c-146b-4d62-8088-16aa7c3463dc.html?utm_source=twitter&utm_medium=social&utm_campaign=organic&utm_content=1100",
+      "mediaType": "image",
+      "media": "assets/images/preview-9-8-2020.png"
+    },
+    {
+      "publication": "Axios",
+      "title": "North Korea's tactical guided message to Trump",
+      "date": "April 2019",
+      "url": "https://www.axios.com/north-koreas-tactical-guided-message-trump-e55dc6f9-6a30-4c2c-842e-dc4370c14260.html",
+      "mediaType": "image",
+      "media": "assets/images/preview-8-18-2019.png"
+    },
+    {
+      "publication": "Axios",
+      "title": "The great family exodus",
+      "date": "October 2018",
+      "url": "https://www.axios.com/families-children-cities-san-francisco-housing-prices-7c1064b9-c497-4cdf-928e-48a4f410f7ba.html",
+      "mediaType": "image",
+      "media": "assets/images/preview-10-30-2019.png"
+    },
+    {
+      "publication": "Axios",
+      "title": "Tale of four countries: The world’s evolving energy mixes",
+      "date": "October 2018",
+      "url": "https://www.axios.com/four-countries-energy-mix-818e8eca-a649-4dd3-ac57-e4886678bc8a.html",
+      "mediaType": "image",
+      "media": "assets/images/preview-10-14-2018.png"
+    }
+  ]

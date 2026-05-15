@@ -1,0 +1,140 @@
+body {
+    font-family: "DM Sans", sans-serif;
+    background: #fafafa;
+    color: #111;
+    padding: 0 40px 120px;
+}
+
+.hero {
+    margin-left: 22vw;
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    /* width: 100%;
+    max-width: 900px; */ 
+}
+
+.hero h1,
+.subtitle {
+    font-family: "Libre Baskerville", serif;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 0.92;
+    margin-bottom: 18px;
+    white-space: nowrap;
+}
+
+.subtitle {
+    max-width: 620px;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    letter-spacing: 0.01em;
+    color: #8c8c8c;
+}
+
+#articles-container {
+    padding-top: 40px;
+}
+
+.publication-section {
+    width: 100%;
+    max-width: 900px;
+    margin-left: 22vw;
+    margin-bottom: 120px;
+}
+
+.publication-title {
+    font-size: 2rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    margin-bottom: 48px;
+}
+
+.articles-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 96px;
+}
+
+.article-card {
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease;
+}
+
+.article-card:hover {
+    transform: translateY(-4px);
+}
+
+.article-card img,
+.article-card video {
+    width: 100%;
+    height: 380px;
+
+    object-fit: contain;
+    object-position: left center;
+
+    margin-bottom: 20px;
+    background: transparent;
+    display: block;
+}
+
+.article-card h2{
+    font-size: 1.3rem;
+    line-height: 1.5;
+    font-weight: 500;
+    max-width: 75%;
+}
+.article-card h4{
+    /* font-size: 1.3rem; */
+    font-weight: 400;
+    color:#999999;
+    margin: 0px;
+}
+
+@media (max-width: 900px) {
+    body {
+        padding: 0 20px 80px;
+    }
+
+    .hero {
+        min-height: 70vh;
+        margin-left: 0;
+        max-width: 100%;
+    }
+
+    .hero h1 {
+        font-size: clamp(3rem, 14vw, 5rem);
+        white-space: normal;
+    }
+
+    .subtitle {
+        max-width: 100%;
+        font-size: 1rem;
+    }
+
+    .publication-section {
+        margin-left: 0;
+        max-width: 100%;
+        margin-bottom: 80px;
+    }
+
+    .articles-grid {
+        gap: 72px;
+    }
+
+    .article-card img,
+    .article-card video {
+        height: 280px;
+    }
+
+    .article-card h2,
+    .article-card h3 {
+        max-width: 100%;
+    }
+}
